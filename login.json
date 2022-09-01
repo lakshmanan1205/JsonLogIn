@@ -1,0 +1,36 @@
+{
+  "UserInfo":[
+    {
+      "UserId":"0",
+      "FirstName":"Lakshmanan",
+      "SureName":"Laksh",
+      "PlayerDesc":"I'm trying to code in vr",
+      "Max_gold":"1250",
+      "Team":"Red"
+    },
+        {
+      "UserId":"1",
+      "FirstName":"Abishek",
+      "SureName":"Abi",
+      "PlayerDesc":"i'm trying to code for fun",
+      "Max_gold":"1000",
+      "Team":"Blue"
+    },
+            {
+      "UserId":"2",
+      "FirstName":"Akash",
+      "SureName":"Akash",
+      "PlayerDesc":"i'm trying code arduino",
+      "Max_gold":"750",
+      "Team":"Blue"
+    },
+                {
+      "UserId":"3",
+      "FirstName":"Chitti Robot",
+      "SureName":"Chitti",
+      "PlayerDesc":"i'm trying to save world",
+      "Max_gold":"1300",
+      "Team":"Red"
+    }
+  ]
+}
